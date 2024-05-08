@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carol\\source\\repos\\WebApplicationSOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0239C10A-501E-403E-A50C-A832A99337B4}|WebApplicationSOAP\\WebApplicationSOAP.csproj|c:\\users\\carol\\source\\repos\\webapplicationsoap\\webapplicationsoap\\csu\\conversion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0239C10A-501E-403E-A50C-A832A99337B4}|WebApplicationSOAP\\WebApplicationSOAP.csproj|solutionrelative:webapplicationsoap\\csu\\conversion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0239C10A-501E-403E-A50C-A832A99337B4}|WebApplicationSOAP\\WebApplicationSOAP.csproj|C:\\Users\\carol\\source\\repos\\WebApplicationSOAP\\webapplicationsoap\\csu\\conversion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0239C10A-501E-403E-A50C-A832A99337B4}|WebApplicationSOAP\\WebApplicationSOAP.csproj|solutionrelative:webapplicationsoap\\csu\\conversion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0239C10A-501E-403E-A50C-A832A99337B4}|WebApplicationSOAP\\WebApplicationSOAP.csproj|C:\\Users\\carol\\source\\repos\\WebApplicationSOAP\\webapplicationsoap\\csd\\convertir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0239C10A-501E-403E-A50C-A832A99337B4}|WebApplicationSOAP\\WebApplicationSOAP.csproj|solutionrelative:webapplicationsoap\\csd\\convertir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conversion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\WebApplicationSOAP\\WebApplicationSOAP\\CSU\\Conversion.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplicationSOAP\\CSU\\Conversion.aspx.cs",
+              "ToolTip": "C:\\Users\\carol\\source\\repos\\WebApplicationSOAP\\WebApplicationSOAP\\CSU\\Conversion.aspx.cs",
+              "RelativeToolTip": "WebApplicationSOAP\\CSU\\Conversion.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:29:25.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conversion.aspx",
+              "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\WebApplicationSOAP\\WebApplicationSOAP\\CSU\\Conversion.aspx",
+              "RelativeDocumentMoniker": "WebApplicationSOAP\\CSU\\Conversion.aspx",
+              "ToolTip": "C:\\Users\\carol\\source\\repos\\WebApplicationSOAP\\WebApplicationSOAP\\CSU\\Conversion.aspx",
+              "RelativeToolTip": "WebApplicationSOAP\\CSU\\Conversion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-07T05:16:56.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Convertir.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\WebApplicationSOAP\\WebApplicationSOAP\\CSD\\Convertir.cs",
+              "RelativeDocumentMoniker": "WebApplicationSOAP\\CSD\\Convertir.cs",
+              "ToolTip": "C:\\Users\\carol\\source\\repos\\WebApplicationSOAP\\WebApplicationSOAP\\CSD\\Convertir.cs",
+              "RelativeToolTip": "WebApplicationSOAP\\CSD\\Convertir.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:14:50.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
